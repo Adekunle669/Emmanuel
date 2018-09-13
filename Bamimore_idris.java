@@ -20,7 +20,7 @@ public class JavaCalculator {
         
         Scanner input =  new Scanner(System.in);
         
-        calculator cal = new calculator();
+        BamimoreCalculator cal = new BamimoreCalculator();
         
         double answer = 0;
         
